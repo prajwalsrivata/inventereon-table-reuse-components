@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-first-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-first-app/static/js/main.94dee32e.js",
-    "static/js/453.101b03bb.chunk.js": "/my-first-app/static/js/453.101b03bb.chunk.js",
-    "index.html": "/my-first-app/index.html",
-    "main.e6c13ad2.css.map": "/my-first-app/static/css/main.e6c13ad2.css.map",
-    "main.94dee32e.js.map": "/my-first-app/static/js/main.94dee32e.js.map",
-    "453.101b03bb.chunk.js.map": "/my-first-app/static/js/453.101b03bb.chunk.js.map"
+    "main.css": "/inventereon-table-reuse-components/static/css/main.e6c13ad2.css",
+    "main.js": "/inventereon-table-reuse-components/static/js/main.e695721f.js",
+    "static/js/453.101b03bb.chunk.js": "/inventereon-table-reuse-components/static/js/453.101b03bb.chunk.js",
+    "index.html": "/inventereon-table-reuse-components/index.html",
+    "main.e6c13ad2.css.map": "/inventereon-table-reuse-components/static/css/main.e6c13ad2.css.map",
+    "main.e695721f.js.map": "/inventereon-table-reuse-components/static/js/main.e695721f.js.map",
+    "453.101b03bb.chunk.js.map": "/inventereon-table-reuse-components/static/js/453.101b03bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.94dee32e.js"
+    "static/js/main.e695721f.js"
   ]
 }
